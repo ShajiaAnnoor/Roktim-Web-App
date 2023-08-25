@@ -127,12 +127,13 @@ p {
     
     
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     flex-direction:column;
     height:60vh;
-    padding:6rem;
-    padding-top: 10rem;
-    padding-bottom: 3rem;
+    padding:8rem;
+    
+  
+    
 
   }
 
@@ -145,6 +146,9 @@ p {
     border: 0;
     outline: 5px solid #B73E3E;
     transform-style: preserve-3d;
-    border-radius: 57px;
+    
+    
+    
+    
   }
   
